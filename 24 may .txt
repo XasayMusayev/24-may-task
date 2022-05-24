@@ -1,0 +1,21 @@
+using System;
+
+namespace ConsoleApp25
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Person xasay = new Person("xasay" ,"Musayev", 20);
+            Console.WriteLine(xasay.IsAdult);
+
+
+            
+
+            
+
+
+
+        }
+    }
+}
